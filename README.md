@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=UG88&fontSize=58&fontAlign=50&fontAlignY=38&desc=Minecraft%20Glass%20UI%20| Discord-Bot&descAlign=50&descAlignY=58&color=gradient&customColorList=12,20,24,30" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=UG88&fontSize=58&fontAlign=50&fontAlignY=38&desc=Minecraft%20Glass%20UI%20|Discord-Bot&descAlign=50&descAlignY=58&color=gradient&customColorList=12,20,24,30" alt="header" />
 </div>
 
 ---
