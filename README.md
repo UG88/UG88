@@ -127,8 +127,9 @@ I like building things that are not only functional, but also **fast, secure, an
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ug88-181717?style=for-the-badge\&logo=github)](https://github.com/ug88)
-[![Modrinth](https://img.shields.io/badge/Modrinth-UG88-00AF5C?style=for-the-badge\&logo=modrinth\&logoColor=white)](https://modrinth.com/user/UG88)
+[![GitHub](https://img.shields.io/badge/GitHub-ug88-181717?style=for-the-badge&logo=github)](https://github.com/ug88)
+[![Modrinth](https://img.shields.io/badge/Modrinth-UG88-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/UG88)
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/krcaTEK5VD)
 
 </div>
 
