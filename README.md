@@ -23,7 +23,7 @@
 ## 🪟 About Me
 
 ```yaml
-name: UG88
+name: UNTILGAMER (UG88)
 role: Systems Developer
 focus:
   - Minecraft plugin ecosystems
