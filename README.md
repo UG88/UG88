@@ -1,1 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=UG88+-+Systems+Developer;Minecraft+%7C+Hosting+%7C+SaaS;Building+Scalable+Systems)
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=UG88&theme=tokyonight&hide_border=true)
