@@ -77,7 +77,7 @@ I like building things that are not only functional, but also **fast, secure, an
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-Minecraft-Plugin-1f1f2e?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Minecraft-1f1f2e?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-1f1f2e?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Automation-1f1f2e?style=for-the-badge\&logo=python\&logoColor=white)
 ![React](https://img.shields.io/badge/React-Frontend-1f1f2e?style=for-the-badge\&logo=react\&logoColor=white)
