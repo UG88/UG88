@@ -89,10 +89,7 @@ I like building things that are not only functional, but also **fast, secure, an
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<br/>
+<div>
 
 <div align="center">
 
