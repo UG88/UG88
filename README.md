@@ -1,7 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=UG88+-+Systems+Developer;Minecraft+%7C+Hosting+%7C+SaaS;Building+Scalable+Systems)
 
-# <div align="center">✨ UG88 ✨</div>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3200&pause=800&color=7C3AED&center=true&vCenter=true&width=900&lines=Systems+Developer;Minecraft+Engineer;Hosting+Architect;Building+Scalable+Digital+Systems" alt="Typing animation" />
