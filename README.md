@@ -92,8 +92,7 @@ I like building things that are not only functional, but also **fast, secure, an
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=UG88&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ug88&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UG88&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
 </div>
 
