@@ -65,7 +65,7 @@ I like building things that are not only functional, but also **fast, secure, an
 
 ---
 
-## ✨ Glass UI Tech Stack
+## ✨ Tech Stack
 
 <div align="center">
 
@@ -88,12 +88,9 @@ I like building things that are not only functional, but also **fast, secure, an
 
 ---
 
-## 📊 Animated Profile Stats
+## 📊 Profile Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ug88&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ug88&layout=compact&theme=transparent&hide_border=true" />
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ug88&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=ug88&theme=transparent&hide_border=true" />
