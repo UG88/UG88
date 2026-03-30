@@ -127,18 +127,6 @@ I like building things that are not only functional, but also **fast, secure, an
 
 ---
 
-## 🫧 Optional Add-ons
-
-You can make this profile feel even more premium by adding:
-
-* A custom **banner image** with your branding
-* A **snake contribution animation**
-* Pinned repositories with matching thumbnails
-* Repo badges with consistent dark-glass styling
-* A visitor counter if you want profile traffic visibility
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30" alt="footer" />
 </div>
